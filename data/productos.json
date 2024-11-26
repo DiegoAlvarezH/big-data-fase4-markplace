@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Producto de ejemplo",
+      "sku": "ABC123",
+      "quantity": 10,
+      "price": 25.99,
+      "user": "65fc8cbf6e2ca8bb1ca2d1bf",
+      "comments": [],
+      "likes": [],
+      "createdAt": "2024-03-21T19:46:31.005Z",
+      "updatedAt": "2024-03-21T19:46:31.005Z"
+    }
+  ]
+  

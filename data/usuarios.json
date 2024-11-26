@@ -1,0 +1,19 @@
+[
+    {
+      "username": "diego",
+      "email": "diego@gmail.com",
+      "password": "$2a$10$hsR9Y475ppnoiRHqJpC9RuTfa.wh3u.9bZ6mSfOiEgwaOKntN67vC",
+      "createdAt": "2024-03-21T19:38:39.340Z",
+      "updatedAt": "2024-03-21T19:38:39.340Z",
+      "role": "vendedor"
+    },
+    {
+      "username": "ana",
+      "email": "ana@gmail.com",
+      "password": "$2a$10$hkdjfhdjfhkdjkshdjshdjskhfjshkdfjshdkf",
+      "createdAt": "2024-03-21T19:40:39.340Z",
+      "updatedAt": "2024-03-21T19:40:39.340Z",
+      "role": "comprador"
+    }
+  ]
+  
